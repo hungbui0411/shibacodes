@@ -7,11 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Shiba Codes
-description: I am studying in the B.S. and M.S. program in Computer Science at Stanford University with a specialization in Artificial Intelligence. 
-
-My interests are in deep learning, natural language processing, and AR/VR assistants. I have worked at FPT.AI, Dragon Labs, and am currently working at the Stanford Open Virtual Assistant Lab. 
-
-In my free time, I love playing sports, reading books, and exploring new opportunities. I love making new friends too so please do not hesitate if you want to get in touch! 
+description: A Tech Blog by Hung Bui
 github_username: hungbui0411
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "shibacodes"
